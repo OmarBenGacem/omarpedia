@@ -1,0 +1,3 @@
+A dameon set ensures that the specific pod runs on every node, and the same way on every node. The key applications of this is some kind of service such as fluent-bit that collects logs from all nodes and sends them to an endpoint like Kafka (which would be a stateful set by the way). Networking services tend to also run as dameon sets, as it is essential that each node has identical DNS’s, so they all send traffic to the correct place.
+
+Dameon sets are built on a container and associated with a namesapce, however it is likely that the

@@ -1,0 +1,1 @@
+Stateful sets are pods that are considered “individual”. Each pod contains it’s own data, identity, and role. An example is a database, whereby if there are multiple instances, they each have their own file system (they can be the same, but this is not guaranteed).

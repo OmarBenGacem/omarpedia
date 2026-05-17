@@ -1,0 +1,1 @@
+A job is defined as a one time task that runs until they successfully terminate. These are the processes that spawn pods in order to complete

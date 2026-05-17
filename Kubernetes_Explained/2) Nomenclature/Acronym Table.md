@@ -1,0 +1,11 @@
+
+| **Term**    | **Definition**                                                                                                                                                                                               |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **aks**     | “Azure Kubernetes Service”: A service offered by Azure to deploy Kubernetes                                                                                                                                  |
+| **rg**      | “Resource Group”: An organizational method in Azure used to group resources (disk, aks instance, sorage, vms, ect…) together                                                                                 |
+| **SQL**     | “Structured Query Language”: This language is commonly used to query databases in tables. Python libraries often allow you to circumvent SQL, but                                                            |
+| **kubectl** | The command line interface (CLI) for Kubernetes apps. They                                                                                                                                                   |
+| **DNS**     | “Domain Name System”: basically a table mapping human readable text to IP addresses (eg : _google.com_ -> 142.250.72.14)                                                                                     |
+| **VM**      | Virtual Machine: A virtual machine, an isolated                                                                                                                                                              |
+| **YAML**    | YAML Ain't Markup Language, is a human-readable lightweight data serialization languages frequently used for configurations. It's lack of brackets makes it more human readable than alternatives like JSON. |
+| CLI         | Command Line Interface, a language used to enter commands straight into a command line                                                                                                                       |

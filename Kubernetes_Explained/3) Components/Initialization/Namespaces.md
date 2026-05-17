@@ -1,0 +1,1 @@
+A namespace is used to segregate data into isolated components, this allows pods to act as virtual clusters within the cluster. This allows for very high level data segregation, allowing for reuse of variable names in a rapidly scalable way

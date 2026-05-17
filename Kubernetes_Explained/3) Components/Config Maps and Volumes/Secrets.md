@@ -1,0 +1,1 @@
+Similarly to config maps, secrets are mounted 
