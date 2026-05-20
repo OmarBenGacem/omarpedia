@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "50be297d39763dd9",
+        "id": "f913318d2109cb8a",
         "type": "tabs",
         "children": [
           {
-            "id": "e08ec51bf2d36822",
+            "id": "4425ccf28a910ad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) Components/Config Maps and Volumes/Config Maps and Volumes.md",
+                "file": "Industrial Knowledge/Industrial Knowledge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Config Maps and Volumes"
-            }
-          },
-          {
-            "id": "4dd59ec11ba613fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5) Deployment/Toolchains/GitLab(Hub) Build Chain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GitLab(Hub) Build Chain"
-            }
-          },
-          {
-            "id": "1e9f128be5dba14d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) Components/Containers and Apps/App Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "App Architecture"
-            }
-          },
-          {
-            "id": "dc8408eadf9b2776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) Components/Initialization/VM Initialization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VM Initialization"
+              "title": "Industrial Knowledge"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5
   },
   "right": {
     "id": "1214a511f9dbc8f3",
@@ -227,58 +184,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4dd59ec11ba613fb",
+  "active": "4425ccf28a910ad2",
   "lastOpenFiles": [
-    "3) Components/Config Maps and Volumes/Config Maps and Volumes.md",
-    "3) Components/Containers and Apps/App Architecture.md",
-    "3) Components/Initialization/Initialization.md",
-    "3) Components/Config Maps and Volumes/Secrets.md",
-    "2) Nomenclature/Software Systems Terminology.md",
-    "2) Nomenclature/Acronym Table.md",
-    "1) Overview/What is Kubernetes.md",
-    "1) Overview/What is a Pod.md",
-    "1) Overview/What is a Container.md",
-    "3) Components/Initialization/Namespaces.md",
-    "3) Components/Containers and Apps/Containers and Apps.md",
-    "3) Components/Config Maps and Volumes/Persistant Volumes.md",
-    "3) Components/Config Maps and Volumes/Config Map.md",
-    "2) Nomenclature/Common Services.md",
-    "5) Deployment/Toolchains/GitLab(Hub) Build Chain.md",
-    "5) Deployment/Toolchains/Shell Scripts.md",
-    "5) Deployment/Toolchains/Argo Workflows.md",
-    "5) Deployment/Configuration Management/Configuration Management.md",
-    "5) Deployment/5) Deployment.md",
-    "5) Deployment/Toolchains/Toolchains.md",
-    "3) Components/Global Field Names.md",
-    "4) Additional Services/4) Additional Services.md",
-    "3) Components/Initialization/VM Initialization.md",
-    "7) Simple Example/7) Simple Example.md",
-    "2) Nomenclature/Kubernetes Nomenclature.md",
-    "How to Implement.md",
+    "Kubernetes/Kubernetes.md",
+    "Maths/Maths.md",
+    "Kubernetes/Attachments/Example.png",
+    "Kubernetes/Attachments/Advanced Example.png",
+    "Engineering/Engineering.md",
+    "Kubernetes/2) Nomenclature/Kubernetes Nomenclature.md",
+    "Kubernetes/1) Overview/What is a Container.md",
+    "Containerization/Containerization.md",
+    "Computer Programming/Computer Programming.md",
+    "Containerization/Nomenclature.md",
+    "Containerization/Concepts",
+    "GNC/GNC.md",
+    "Industrial Knowledge/Industrial Knowledge.md",
+    "omarpedia.md",
+    "Containerization/Summary.md",
+    "Kubernetes/2) Nomenclature/Common Services.md",
+    "Kubernetes/5) Deployment/5) Deployment.md",
+    "Industrial Knowledge",
+    "Industrial Knowledge/Aviation/Transportation Data Platform/Transportation Data Platform.md",
+    "Kubernetes/3) Components/3) Components.md",
+    "Maths/Linear Algebra/Linear Algebra.md",
+    "Maths/Geometry/Geometry.md",
+    "GNC/Navigation/Navigation.md",
+    "GNC/Guidance/Guidance.md",
+    "GNC/Control/Control.md",
+    "Engineering/Rigid Body Mechanics/Rigid Body Mechanics.md",
+    "Engineering/Electronics/Electronics.md",
+    "Containerization/Podman/Podman.md",
+    "Containerization/Docker/Docker.md",
+    "Computer Programming/Low Level/Low Level.md",
+    "GNC/Control",
+    "GNC/Navigation",
+    "GNC/Guidance",
+    "Computer Programming/Data Structures and Algorithms",
+    "Computer Programming/Concepts",
+    "Computer Programming/High Level",
+    "Computer Programming/Low Level",
+    "Computer Programming",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "5) Deployment/Tools",
-    "3) Components/Config Maps and Volumes",
-    "3) Components/Containers and Apps",
-    "3) Components/Initialization",
-    "5) Deployment/Testcases",
-    "5) Deployment/Toolchains",
-    "5) Deployment/Configuration Management",
-    "6) Software Design",
     "Attachments/Example.png",
-    "1) Overview",
     "Attachments/Advanced Example.png",
-    "5) Deployment",
     "Screenshot 2026-03-17 at 10.50.49 AM.png",
     "Screenshot 2026-03-17 at 10.47.43 AM.png",
     "Pasted image 20260317104752.png",

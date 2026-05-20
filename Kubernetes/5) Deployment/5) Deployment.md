@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
+- **[[CICD]]**
+	- [[Purpose]]
 - **[[Configuration Management]]**
-- **Testcases**
 - **[[Toolchains]]**
 - **[[Tools]]**
 

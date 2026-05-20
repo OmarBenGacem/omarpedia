@@ -1,0 +1,1 @@
+Containerization is the ability to bundle software into a "container", which can then be "shipped" off 

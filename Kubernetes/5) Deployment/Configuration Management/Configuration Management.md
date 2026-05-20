@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - [[Configurations]]
 - [[Credentials]]
-- [[5) Deployment/Configuration Management/Secrets]]
+- [[Secrets]]
 
 %% End Waypoint %%
