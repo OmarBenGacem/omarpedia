@@ -2,7 +2,7 @@
 - **Concepts**
 - **[[Docker]]**
 - **[[Podman]]**
-- [[Nomenclature]]
+- [[Software Engineering/Containerization/Nomenclature]]
 - [[Summary]]
 
 %% End Waypoint %%

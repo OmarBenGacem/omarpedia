@@ -1,0 +1,1 @@
+Pythons niche is it's ease of usability, and it's similarity to the english language. It's very much "you get what you type" with very easy to understand syntax. It is an interpreted scripting language, so it
