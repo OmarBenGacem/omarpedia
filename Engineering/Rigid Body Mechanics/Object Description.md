@@ -1,0 +1,1 @@
+In general, objects tend to be defined 

@@ -1,0 +1,8 @@
+.markdown-preview-view table,
+.markdown-rendered table {
+    width: 100% !important;
+}
+
+.markdown-source-view.is-live-preview table {
+    width: 100% !important;
+}

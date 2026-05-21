@@ -1,0 +1,1 @@
+A compiler is a program that turns a code project into a binary

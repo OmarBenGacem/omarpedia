@@ -1,4 +1,4 @@
-
+![[.equations/test.md]]
 Good Day
 
 This is Omarpedia. It is the sum of all my knowledge organized in the way I like it. Enjoy.

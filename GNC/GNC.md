@@ -2,7 +2,7 @@
 - **[[Control]]**
 - **[[Guidance]]**
 - **[[Navigation]]**
-- [[Nomenclature]]
-- [[Summary]]
+- [[GNC/Nomenclature]]
+- [[GNC/Summary]]
 
 %% End Waypoint %%

@@ -8,17 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4425ccf28a910ad2",
+            "id": "5f7e90fde4209db6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "caa31207dac65e96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Industrial Knowledge/Industrial Knowledge.md",
+                "file": "Maths/Geometry/Geometry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Industrial Knowledge"
+              "title": "Geometry"
+            }
+          },
+          {
+            "id": "1b36e91679676bc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Linear Algebra/Vector Definitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vector Definitions"
             }
           }
         ]
@@ -89,36 +113,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9656219d43992ddf",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Untitled 1.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
-            }
-          },
-          {
             "id": "0d9651fdeaae8821",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              "title": "Outgoing links"
             }
           },
           {
@@ -174,9 +178,27 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "a81d22604f07f8f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,46 +216,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4425ccf28a910ad2",
+  "active": "5f7e90fde4209db6",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes.md",
-    "Maths/Maths.md",
-    "Kubernetes/Attachments/Example.png",
-    "Kubernetes/Attachments/Advanced Example.png",
+    "Maths/Linear Algebra/Vector Definitions.md",
+    "equations/equations.md",
     "Engineering/Engineering.md",
-    "Kubernetes/2) Nomenclature/Kubernetes Nomenclature.md",
-    "Kubernetes/1) Overview/What is a Container.md",
-    "Containerization/Containerization.md",
-    "Computer Programming/Computer Programming.md",
-    "Containerization/Nomenclature.md",
-    "Containerization/Concepts",
-    "GNC/GNC.md",
+    "Computer Programming/Data Structures and Algorithms/Data Structures and Algorithms.md",
+    "Maths/Geometry/Geometry.md",
+    "equations/test.md",
+    "equations",
     "Industrial Knowledge/Industrial Knowledge.md",
     "omarpedia.md",
-    "Containerization/Summary.md",
-    "Kubernetes/2) Nomenclature/Common Services.md",
-    "Kubernetes/5) Deployment/5) Deployment.md",
-    "Industrial Knowledge",
-    "Industrial Knowledge/Aviation/Transportation Data Platform/Transportation Data Platform.md",
-    "Kubernetes/3) Components/3) Components.md",
-    "Maths/Linear Algebra/Linear Algebra.md",
-    "Maths/Geometry/Geometry.md",
-    "GNC/Navigation/Navigation.md",
+    "Maths/Maths.md",
+    "Software Engineering/Cloud Computing",
+    "Software Engineering/Kubernetes/5) Deployment/Toolchains/GitLab(Hub) Build Chain.md",
+    "Software Engineering/Kubernetes/5) Deployment/Toolchains/Toolchains.md",
+    "Software Engineering/Kubernetes/5) Deployment/5) Deployment.md",
+    "Software Engineering/Kubernetes/Kubernetes.md",
+    "Software Engineering/Software Engineering.md",
+    "Computer Programming/Data Structures and Algorithms/Memory.md",
+    "Software Engineering",
+    "Computer Programming/Concepts/Memory.md",
+    "Computer Programming/Concepts/Interpreter.md",
+    "Computer Programming/Concepts/Concurrency.md",
+    "Computer Programming/Concepts/Compiler.md",
+    "Engineering/Rigid Body Mechanics/Object Description.md",
     "GNC/Guidance/Guidance.md",
-    "GNC/Control/Control.md",
-    "Engineering/Rigid Body Mechanics/Rigid Body Mechanics.md",
-    "Engineering/Electronics/Electronics.md",
-    "Containerization/Podman/Podman.md",
-    "Containerization/Docker/Docker.md",
-    "Computer Programming/Low Level/Low Level.md",
-    "GNC/Control",
-    "GNC/Navigation",
-    "GNC/Guidance",
-    "Computer Programming/Data Structures and Algorithms",
-    "Computer Programming/Concepts",
-    "Computer Programming/High Level",
-    "Computer Programming/Low Level",
-    "Computer Programming",
+    "GNC/Navigation/Navigation.md",
+    "Industrial Knowledge/Aviation/Nomenclature.md",
+    "Industrial Knowledge/Aviation/NAS Data/Data Hirarchy.md",
+    "GNC/Summary.md",
+    "GNC/Nomenclature.md",
+    "Computer Programming/High Level/MatLab",
+    "Maths/Optimization",
+    "Computer Programming/Low Level/Rust",
+    "Computer Programming/Low Level/Verilog",
+    "Computer Programming/Low Level/C++",
+    "Computer Programming/Low Level/C",
+    "Computer Programming/High Level/Go",
+    "Software Engineering/Kubernetes/Attachments/Example.png",
+    "Software Engineering/Kubernetes/Attachments/Advanced Example.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Attachments/Example.png",
