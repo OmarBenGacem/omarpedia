@@ -1,5 +1,8 @@
 {
   "enabledCssSnippets": [
-    "table-full-width"
+    "table-full-width",
+    "center-text",
+    "center-images",
+    "hide-table-gap"
   ]
 }

@@ -1,0 +1,22 @@
+/* Reading view */
+.markdown-rendered .internal-embed.image-embed,
+.markdown-rendered .image-embed {
+  display: table !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.markdown-rendered .internal-embed.image-embed img,
+.markdown-rendered .image-embed img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Live Preview / editor */
+.markdown-source-view.mod-cm6 .cm-content .internal-embed.image-embed,
+.markdown-source-view.mod-cm6 .cm-content .image-embed {
+  display: table !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}

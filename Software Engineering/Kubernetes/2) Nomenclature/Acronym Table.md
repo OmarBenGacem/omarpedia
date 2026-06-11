@@ -8,4 +8,4 @@
 | **DNS**     | “Domain Name System”: basically a table mapping human readable text to IP addresses (eg : _google.com_ -> 142.250.72.14)                                                                                     |
 | **VM**      | Virtual Machine: A virtual machine, an isolated                                                                                                                                                              |
 | **YAML**    | YAML Ain't Markup Language, is a human-readable lightweight data serialization languages frequently used for configurations. It's lack of brackets makes it more human readable than alternatives like JSON. |
-| CLI         | Command Line Interface, a language used to enter commands straight into a command line                                                                                                                       |
+| **CLI**     | Command Line Interface, a language used to enter commands straight into a command line                                                                                                                       |

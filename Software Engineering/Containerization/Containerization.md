@@ -1,8 +1,12 @@
 %% Begin Waypoint %%
 - **Concepts**
+	- [[Containers]]
+	- [[Hypervisors]]
 - **[[Docker]]**
 - **[[Podman]]**
-- [[Software Engineering/Containerization/Nomenclature]]
+	- [[Application Services]]
+	- [[Cheat Sheet]]
+- [[Nomenclature]]
 - [[Summary]]
 
 %% End Waypoint %%

@@ -1,0 +1,10 @@
+/* Hides the blank line right before tables in Live Preview */
+.cm-line:has(+ .cm-embed-block.cm-table-widget) br {
+    display: none !important;
+}
+
+/* Adjusts padding so the table sits tightly against the heading */
+.cm-embed-block.cm-table-widget.markdown-rendered {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}

@@ -1,4 +1,3 @@
-![[.equations/test.md]]
 Good Day
 
 This is Omarpedia. It is the sum of all my knowledge organized in the way I like it. Enjoy.
@@ -10,4 +9,5 @@ This is Omarpedia. It is the sum of all my knowledge organized in the way I like
 [[GNC]]
 [[Kubernetes]]
 [[Maths]]
+[[Physics]]
 [[Computer Programming]]

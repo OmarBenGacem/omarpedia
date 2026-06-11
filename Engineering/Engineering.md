@@ -2,9 +2,9 @@
 - **[[Electronics]]**
 - **[[Rigid Body Mechanics]]**
 	- **[[Dynamics]]**
-		- [[Nomenclature]]
+	- **[[Equations of Motion]]**
 	- **[[Statics]]**
-		- [[Nomenclature]]
+	- **[[SymPy]]**
 	- [[Nomenclature]]
 	- [[Object Description]]
 - **[[Signals and Systems]]**

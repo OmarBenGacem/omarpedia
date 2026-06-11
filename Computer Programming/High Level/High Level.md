@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - **Go**
+	- **[[Types]]**
 - **Java**
 - **MatLab**
 - **[[Python]]**

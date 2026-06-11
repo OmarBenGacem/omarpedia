@@ -1,0 +1,14 @@
+/* ==================== TEXT JUSTIFICATION ==================== */
+
+/* Justify text in Reading view */
+.markdown-preview-view p {
+    text-align: justify !important;
+    text-justify: inter-word;
+}
+
+/* Justify text in Live Preview / Editing view */
+.cm-line {
+    text-align: justify !important;
+}
+
+
