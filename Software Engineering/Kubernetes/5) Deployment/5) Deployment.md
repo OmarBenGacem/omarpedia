@@ -3,6 +3,5 @@
 	- [[Purpose]]
 - **[[Configuration Management]]**
 - **[[Toolchains]]**
-- **[[Tools]]**
 
 %% End Waypoint %%

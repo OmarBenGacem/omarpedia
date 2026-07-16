@@ -1,5 +1,7 @@
 %% Begin Waypoint %%
 - **Cloud Computing**
+	- **[[Tools]]**
+	- [[CICD]]
 - **[[Containerization]]**
 - **[[Kubernetes]]**
 	- **[[1) Overview]]**
@@ -16,5 +18,6 @@
 - **[[Network Engineering]]**
 	- [[TCP]]
 	- [[UDP]]
+- **[[Networking]]**
 
 %% End Waypoint %%

@@ -1,0 +1,1 @@
+Continuous Integration, Continuous Delivery (CICD) is a software infastructure to allow 

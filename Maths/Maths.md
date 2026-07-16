@@ -1,7 +1,9 @@
 %% Begin Waypoint %%
 - **[[Geometry]]**
 - **[[Linear Algebra]]**
-	- [[Vector Definitions]]
 - **Optimization**
+- **[[Vector Algebra]]**
+	- [[Operations]]
+	- [[Vector Definitions]]
 
 %% End Waypoint %%

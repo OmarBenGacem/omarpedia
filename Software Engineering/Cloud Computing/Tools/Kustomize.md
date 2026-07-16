@@ -1,0 +1,2 @@
+# Functionality
+Kustomize is a standalone tool to customize the creation of Kubernetes objects through a file called *kustomization.yaml* which allows you to have a certain folder structure in your repo to control the build. So for example, you can have a folder structure where you have a base deployment (manifest file), and then you can have overlays to specify the specific customizations for each component, such as applications and services. Similarly, overlays would be like test, dev and prod environments.

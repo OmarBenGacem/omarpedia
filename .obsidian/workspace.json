@@ -13,30 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Kubernetes/4) Additional Services/4) Additional Services.md",
+                "file": "Software Engineering/Containerization/Concepts/Hypervisors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4) Additional Services"
+              "title": "Hypervisors"
             }
           },
           {
-            "id": "0f83e07161212510",
+            "id": "806e5c88c8ae2d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Kubernetes/4) Additional Services/Web Dashboard.md",
+                "file": "Software Engineering/Cloud Computing/Tools/GitHub Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Dashboard"
+              "title": "GitHub Actions"
+            }
+          },
+          {
+            "id": "36fe4eff0dfebc10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Cloud Computing/Tools/Helm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helm"
+            }
+          },
+          {
+            "id": "6e3b0f72f7cb41ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Cloud Computing/Tools/Helm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helm"
+            }
+          },
+          {
+            "id": "458969ff19762f29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Cloud Computing/Tools/GitHub Actions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub Actions"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,55 +263,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f83e07161212510",
+  "active": "6e3b0f72f7cb41ee",
   "lastOpenFiles": [
-    "Software Engineering/Kubernetes/Kubernetes.md",
-    "Software Engineering/Containerization/Containerization.md",
-    "Software Engineering/Kubernetes/4) Additional Services/Web Dashboard.md",
-    "Software Engineering/Kubernetes/3) Components/Initialization/Roles.md",
-    "Software Engineering/Kubernetes/4) Additional Services/4) Additional Services.md",
-    "Software Engineering/Kubernetes/3) Components/Initialization/Initialization.md",
-    "Software Engineering/Kubernetes/5) Deployment/5) Deployment.md",
-    "Software Engineering/Kubernetes/4) Additional Services/Kubectl.md",
-    "Software Engineering/Kubernetes/4) Additional Services/CLI Tools/CLI Tools.md",
-    "Software Engineering/Containerization/Podman/Cheat Sheet.md",
-    "Software Engineering/Containerization/Podman/Application Services.md",
-    "_attachments/Reference_Frames.png",
-    "Software Engineering/Containerization/Concepts/Hypervisors.md",
-    "Software Engineering/Containerization/Concepts/Containers.md",
-    "Software Engineering/Kubernetes/3) Components/Initialization/VM Initialization.md",
-    "Software Engineering/Kubernetes/3) Components/Initialization/Namespaces.md",
-    "Software Engineering/Kubernetes/4) Additional Services/CLI Tools",
-    "Software Engineering/Kubernetes/3) Components/3) Components.md",
-    "Software Engineering/Kubernetes/7) Simple Example/7) Simple Example.md",
-    "Software Engineering/Kubernetes/2) Nomenclature/Kubernetes Nomenclature.md",
-    "Software Engineering/Kubernetes/2) Nomenclature/Software Systems Terminology.md",
-    "Software Engineering/Kubernetes/2) Nomenclature/Acronym Table.md",
-    "Software Engineering/Kubernetes/2) Nomenclature/Common Services.md",
-    "Software Engineering/Kubernetes/3) Components/Config Maps and Volumes/Config Maps and Volumes.md",
-    "Software Engineering/Kubernetes/1) Overview/What is Kubernetes.md",
-    "Software Engineering/Kubernetes/1) Overview/1) Overview.md",
-    "Untitled.base",
-    "Software Engineering/Containerization/Podman/Podman.md",
-    "_attachments/container.png",
-    "_attachments/Hypervisor.png",
-    "_attachments",
+    "Software Engineering/Cloud Computing/Tools/Kustomize.md",
+    "Software Engineering/Cloud Computing/Tools/Helm.md",
+    "Software Engineering/Cloud Computing/Tools/ArgoCD.md",
+    "Software Engineering/Cloud Computing/Tools/GitHub Actions.md",
+    "Software Engineering/Cloud Computing/Tools/Headlamp.md",
+    "Software Engineering/Cloud Computing/Tools/FluentBit.md",
+    "Software Engineering/Cloud Computing/Tools/Kafka.md",
+    "Software Engineering/Cloud Computing/Tools/OpenTofu.md",
+    "Software Engineering/Cloud Computing/Tools/Posgress.md",
+    "Software Engineering/Cloud Computing/Tools/Rancher.md",
+    "Software Engineering/Cloud Computing/Tools/RedPanda.md",
+    "Untitled 1.md",
+    "Software Engineering/Cloud Computing/Tools/Grafana.md",
+    "Software Engineering/Cloud Computing/Tools/Jenkins.md",
+    "Software Engineering/Cloud Computing/Tools/K9s.md",
+    "Software Engineering/Cloud Computing/CICD.md",
+    "Software Engineering/Cloud Computing/Tools/Tools.md",
+    "GNC/GNC.md",
+    "Engineering/Rigid Body Mechanics/Dynamics/Nomenclature.md",
+    "Engineering/Rigid Body Mechanics/Dynamics/Dynamics.md",
+    "Engineering/Engineering.md",
+    "_attachments/Screenshot 2026-07-13 at 4.54.14 PM.png",
+    "_attachments/Screenshot 2026-07-13 at 4.50.11 PM.png",
+    "_attachments/Screenshot 2026-07-13 at 4.49.44 PM.png",
+    "Software Engineering/Software Engineering.md",
+    "Physics/Physics.md",
+    "Maths/Maths.md",
     "Industrial Knowledge/Industrial Knowledge.md",
+    "Computer Programming/Computer Programming.md",
+    "_attachments/Screenshot 2026-07-13 at 4.23.39 PM.png",
+    "Maths/Vector Algebra",
+    "_attachments/Reference_Frames.png",
+    "_attachments/Hypervisor.png",
+    "_attachments/container.png",
+    "Computer Programming/Asynchronous Programming",
+    "Software Engineering/Networking",
+    "Software Engineering/Kubernetes/4) Additional Services/CLI Tools",
+    "Untitled.base",
+    "_attachments",
     "Software Engineering/Kubernetes/5) Deployment/Tools/OpenTofu",
     "Engineering/Rigid Body Mechanics/SymPy",
     "Engineering/Rigid Body Mechanics/Equations of Motion",
     "Computer Programming/High Level/Go/Types",
-    "Engineering/Signals and Systems",
-    "Software Engineering/Network Engineering",
-    "Physics/Quantum Physics",
     "Software Engineering/Kubernetes/Attachments/Example.png",
     "Software Engineering/Kubernetes/Attachments/Advanced Example.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Attachments/Example.png",
-    "Attachments/Advanced Example.png",
-    "Screenshot 2026-03-17 at 10.50.49 AM.png",
-    "Screenshot 2026-03-17 at 10.47.43 AM.png",
-    "Pasted image 20260317104752.png"
+    "Attachments/Example.png"
   ]
 }
