@@ -1,7 +1,5 @@
 %% Begin Waypoint %%
-- **Cloud Computing**
-	- **[[Tools]]**
-	- [[CICD]]
+- **[[Cloud Computing]]**
 - **[[Containerization]]**
 - **[[Kubernetes]]**
 	- **[[1) Overview]]**

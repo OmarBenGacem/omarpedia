@@ -1,8 +1,16 @@
+---
+Topic area: GNC
+tags: []
+canvas: "[[_folder-canvas/GNC.canvas|GNC]]"
+---
+# Topics
 %% Begin Waypoint %%
 - **[[Control]]**
 - **[[Guidance]]**
 - **[[Navigation]]**
-- [[GNC/Nomenclature]]
-- [[GNC/Summary]]
+- [[Nomenclature]]
+- [[Summary]]
 
 %% End Waypoint %%
+
+

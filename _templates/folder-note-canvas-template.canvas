@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"title-node","type":"text","text":"# {{folder-name}}","x":0,"y":0,"width":280,"height":120},
+		{"id":"summary-node","type":"text","text":"- \n- \n-","x":0,"y":160,"width":1800,"height":180},
+		{"id":"column-1","type":"text","text":"Column 1","x":0,"y":400,"width":560,"height":700},
+		{"id":"column-2","type":"text","text":"Column 2","x":620,"y":400,"width":560,"height":700},
+		{"id":"column-3","type":"text","text":"Column 3","x":1240,"y":400,"width":560,"height":700}
+	],
+	"edges":[]
+}

@@ -7,6 +7,8 @@
 - **[[Low Level]]**
 	- **C**
 	- **C++**
+		- [[Class Architecture]]
+		- [[Classes]]
 	- **Rust**
 	- **Verilog**
 
