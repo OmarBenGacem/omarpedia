@@ -1,0 +1,128 @@
+/* Shared base styling */
+.top-table-blue .markdown-rendered table,
+.top-table-blue .cm-table-widget table,
+.top-table-gray .markdown-rendered table,
+.top-table-gray .cm-table-widget table,
+.left-table-blue .markdown-rendered table,
+.left-table-blue .cm-table-widget table,
+.left-table-gray .markdown-rendered table,
+.left-table-gray .cm-table-widget table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.top-table-blue .markdown-rendered th,
+.top-table-blue .markdown-rendered td,
+.top-table-blue .cm-table-widget th,
+.top-table-blue .cm-table-widget td,
+.top-table-gray .markdown-rendered th,
+.top-table-gray .markdown-rendered td,
+.top-table-gray .cm-table-widget th,
+.top-table-gray .cm-table-widget td,
+.left-table-blue .markdown-rendered th,
+.left-table-blue .markdown-rendered td,
+.left-table-blue .cm-table-widget th,
+.left-table-blue .cm-table-widget td,
+.left-table-gray .markdown-rendered th,
+.left-table-gray .markdown-rendered td,
+.left-table-gray .cm-table-widget th,
+.left-table-gray .cm-table-widget td {
+  padding: 8px 12px !important;
+  border: 1px solid var(--background-modifier-border) !important;
+}
+
+/* Top Table Blue */
+.top-table-blue .markdown-rendered thead th,
+.top-table-blue .cm-table-widget thead th {
+  background-color: #1f4e78 !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
+
+.top-table-blue .markdown-rendered tbody tr:nth-child(odd) td,
+.top-table-blue .cm-table-widget tbody tr:nth-child(odd) td {
+  background-color: #eaf3ff !important;
+  color: black !important;
+}
+
+.top-table-blue .markdown-rendered tbody tr:nth-child(even) td,
+.top-table-blue .cm-table-widget tbody tr:nth-child(even) td {
+  background-color: white !important;
+  color: black !important;
+}
+
+/* Top Table Gray */
+.top-table-gray .markdown-rendered thead th,
+.top-table-gray .cm-table-widget thead th {
+  background-color: #5f6368 !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
+
+.top-table-gray .markdown-rendered tbody tr:nth-child(odd) td,
+.top-table-gray .cm-table-widget tbody tr:nth-child(odd) td {
+  background-color: #f1f3f4 !important;
+  color: black !important;
+}
+
+.top-table-gray .markdown-rendered tbody tr:nth-child(even) td,
+.top-table-gray .cm-table-widget tbody tr:nth-child(even) td {
+  background-color: white !important;
+  color: black !important;
+}
+
+/* Left Table Blue */
+.left-table-blue .markdown-rendered thead th,
+.left-table-blue .cm-table-widget thead th {
+  background-color: #1f4e78 !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
+
+.left-table-blue .markdown-rendered tbody tr:nth-child(odd) td:not(:first-child),
+.left-table-blue .cm-table-widget tbody tr:nth-child(odd) td:not(:first-child) {
+  background-color: #eaf3ff !important;
+  color: black !important;
+}
+
+.left-table-blue .markdown-rendered tbody tr:nth-child(even) td:not(:first-child),
+.left-table-blue .cm-table-widget tbody tr:nth-child(even) td:not(:first-child) {
+  background-color: white !important;
+  color: black !important;
+}
+
+.left-table-blue .markdown-rendered tbody td:first-child,
+.left-table-blue .cm-table-widget tbody td:first-child {
+  background-color: #1f4e78 !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
+
+/* Left Table Gray */
+.left-table-gray .markdown-rendered thead th,
+.left-table-gray .cm-table-widget thead th {
+  background-color: #5f6368 !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
+
+.left-table-gray .markdown-rendered tbody tr:nth-child(odd) td:not(:first-child),
+.left-table-gray .cm-table-widget tbody tr:nth-child(odd) td:not(:first-child) {
+  background-color: #f1f3f4 !important;
+  color: black !important;
+}
+
+.left-table-gray .markdown-rendered tbody tr:nth-child(even) td:not(:first-child),
+.left-table-gray .cm-table-widget tbody tr:nth-child(even) td:not(:first-child) {
+  background-color: white !important;
+  color: black !important;
+}
+
+.left-table-gray .markdown-rendered tbody td:first-child,
+.left-table-gray .cm-table-widget tbody td:first-child {
+  background-color: #5f6368 !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
+

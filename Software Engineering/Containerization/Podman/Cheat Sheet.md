@@ -1,4 +1,3 @@
-
 # Podman *run*
 To run a container, just enter the command `podman run`
 ### Flags:
@@ -8,6 +7,7 @@ To run a container, just enter the command `podman run`
 | **-d** | 'detached': meaning you want to run the container detached from the current ongoing terminal, and then will run in the background                                                                                                                                 |
 | **-t** | Specifies that, if necessary, you would like to be able to open a virtual terminal into the container                                                                                                                                                             |
 | **-p** | Specifies a port forward. This means users will use the first port for external tcp access, and then the 2nd port is where that will be forwarded to inside the terminal. For example 8080/80 is port 8080 outside the terminal, and then 80 inside the terminal. |
+|        |                                                                                                                                                                                                                                                                   |
 # Podman *stop* and *rm*
 `podman stop` is used to stop an already running container, and `podman rm` is used to remove a container (note, containers still exist even after they are stopped)
 ### Flags

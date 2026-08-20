@@ -3,6 +3,7 @@
     "table-full-width",
     "center-text",
     "center-images",
-    "hide-table-gap"
+    "hide-table-gap",
+    "custom-table-styles"
   ]
 }
