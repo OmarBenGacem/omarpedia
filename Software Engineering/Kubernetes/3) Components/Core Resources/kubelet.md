@@ -1,0 +1,1 @@
+Kubelet is the node agent that runs and reports on pods. every node has a kubelet agent running on it, and it's role is to ensure node health, and communicate with the control plane

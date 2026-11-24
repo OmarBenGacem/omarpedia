@@ -1,0 +1,3 @@
+Containerd is the runtime service inside of kubernetes. it works on every worker node and is responsible for pulling images  and then overseeing their runtime. This works under kubelet using the CRI api. 
+
+Containerd is similar to docker, however ...

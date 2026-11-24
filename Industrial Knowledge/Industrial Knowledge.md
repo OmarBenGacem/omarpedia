@@ -3,6 +3,7 @@
 	- **[[NAS Architecture]]**
 	- **[[NAS Data]]**
 		- [[Data Hirarchy]]
-	- [[Industrial Knowledge/Aviation/Nomenclature]]
+	- [[Nomenclature]]
+- **[[CRE Zero To Hero]]**
 
 %% End Waypoint %%

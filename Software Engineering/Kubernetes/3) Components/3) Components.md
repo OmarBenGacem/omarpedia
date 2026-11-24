@@ -2,9 +2,11 @@ Note the website [Kube Composer](https://kube-composer.com/), this website allow
 
 %% Begin Waypoint %%
 - **[[Config Maps and Volumes]]**
-- **[[Containers and Apps]]**
+- **[[Core Resources]]**
 - **[[Initialization]]**
 - **[[Pod Sets and Workloads]]**
+- [[Control Plane]]
 - [[Global Field Names]]
+- [[Worker Nodes]]
 
 %% End Waypoint %%

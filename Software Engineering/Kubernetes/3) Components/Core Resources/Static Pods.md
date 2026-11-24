@@ -1,0 +1,1 @@
+Static pods are how the control plane itself boots, this kind of has a "chicken and egg" situation, 

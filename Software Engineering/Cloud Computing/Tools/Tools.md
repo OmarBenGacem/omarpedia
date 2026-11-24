@@ -4,7 +4,7 @@
 - [[GitHub Actions]]
 - [[Grafana]]
 - [[Headlamp]]
-- [[Helm]]
+- [[Software Engineering/Cloud Computing/Tools/Helm]]
 - [[Jenkins]]
 - [[K9s]]
 - [[Kafka]]

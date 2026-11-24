@@ -1,0 +1,1 @@
+Turns services virtual ip addresses into real routing rules in every node to make sure that traffic is being routed correctly in a pod. when ever one pod speaks to another via a service name, the proxy is what manages this traffic.
